@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculadora", "calculadora\calculadora.csproj", "{4B815D2F-1671-44EA-BBBF-DBD3B094EBD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios 2", "Ejercicios 2", "{5B103652-FEE1-40A8-B065-55D707B51A01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calc-suma", "Ejercicios 2\calc-suma\calc-suma.csproj", "{1D03D95F-5342-4A62-98BB-A3FF120ADF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B815D2F-1671-44EA-BBBF-DBD3B094EBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B815D2F-1671-44EA-BBBF-DBD3B094EBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B815D2F-1671-44EA-BBBF-DBD3B094EBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B815D2F-1671-44EA-BBBF-DBD3B094EBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D03D95F-5342-4A62-98BB-A3FF120ADF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D03D95F-5342-4A62-98BB-A3FF120ADF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D03D95F-5342-4A62-98BB-A3FF120ADF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D03D95F-5342-4A62-98BB-A3FF120ADF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D03D95F-5342-4A62-98BB-A3FF120ADF9C} = {5B103652-FEE1-40A8-B065-55D707B51A01}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D013214-2617-44DA-BB57-A33246EF3B87}
+	EndGlobalSection
+EndGlobal
